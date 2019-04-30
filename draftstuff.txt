@@ -1,0 +1,62 @@
+Interpersonal-
+It can be a difficult thing to provide critical feedback to my peers, I do this well when it comes to other programmers
+but with regards to people outside of my speciality it feels a bit like intruding where I don't have good knowledge of the subject.
+It's been brought up by some succesful third year teams though that having someone willing to give completely open criticism
+even where they are not an expert on the subject has been incredibly beneficial to their projects. Being someone that is
+comfortable giving useful and suscinct feedback in a friendly manner will be great for not only myself but also helps 
+others find ways to improve. I feel like this type of person can be invaluable to a team and end up being seen in a high regard 
+assuming they can supply that feedback in a polite manner.
+
+Action-
+During each sprint meeting next term where we review the jobs that have been completed, I will make sure to always give my honest opion 
+about the work even if I might not have much knowledge on the subject. I will keep a chart of this for each week
+where I can mark down if I failed or succeded. Getting used to giving this feedback will hopefully help other team members
+spot possible changes that they might have missed and make it easier for me to do in a profesional environment. I will do this
+unless the end of term.
+
+
+Cognitive-
+I haven't spent as much time as i would like practicing skills in C++. The need to more actively manage memory manually in this language compared to others
+has been a stumbling point on one of my projects. When creating objects and not deleting them correctly in a project this year
+I ended up losing marks due to my lack of knowledge and the programme didn't work as optimally as it could have. 
+I knew this was a problem but found myself unable to find the solution.
+These flaws wouldn't be acceptable in a professional environment where every bit of memory for a project is very important, not to mention
+the problems it could cause for users if handled incorrectly. 
+
+Action-
+I have found two useful reasources that teach about memory management[cite https://lwn.net/Articles/250967/ - https://en.wikibooks.org/wiki/C%2B%2B_Programming/Memory_Management].
+Each week I will spend 2 hours reading through these sites until I have covered all the topics listed. I will make a list of
+all the topics and check them off as I complete them. Going through these reasources should give me a better understanding
+of how computer memory works and how to succesfully mange it in C++, helping me to write well optimised code in the future.
+
+
+Procedural-
+I have grown a new respect for UML diagrams over the past year, I still can find them difficult to create
+as it can be tricky for me to plan ahead how things will interact as i'm still learning a lot. However, i see the 
+value in having a base plan and would really like to improve my ability to create these diagrams efficently.
+Another key reason is that being able to show my processes in UML format will be great when applying for jobs
+and trying to show off my ideas to future work colleagues.
+
+Action-
+
+
+Affective-
+When it comes to considering the affective domain I have always struggled here the most. It's very uncommon for me
+to stop and think about emotions or mental states, so when I do it doesn't come very naturally. Having a better ability 
+to comperhend how different states can be effecting myself and other people will make communicating in work environments 
+easier. It should also give me better mental wellbeing allowing me to enjoy my work more, leading to better work.
+
+Action-
+
+
+Dispositional-
+My ability to organise my time and manage my projects over a large time scale has improved greatly by folllowing previous
+smart goals I have created. Though I still see room for improvement. The new area of fault can be in not splitting 
+my work for the day down well enough, i have often had multiple jobs to achieve in a day and end up getting lost in 
+completing one too a high standard. Although this overall gives me a high quality of work it has sometimes left other team
+members waiting on a job to be completed. This gives an overall slowdown in work for the project which is key to avoid
+ as it can not only annoy team members but also halt progress in certain areas.
+
+Action-
+
+
