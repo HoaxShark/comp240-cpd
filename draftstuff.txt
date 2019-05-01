@@ -38,7 +38,9 @@ Another key reason is that being able to show my processes in UML format will be
 and trying to show off my ideas to future work colleagues.
 
 Action-
-
+For each new alogorithm I design for projects during the next term I will create relevant UML diagrams to be shown on the
+readme.md of the project, these can then be used to measure my progress. This will provide me with good expereince in creating these diagrams and make it easier and faster
+to do in the future.
 
 Affective-
 When it comes to considering the affective domain I have always struggled here the most. It's very uncommon for me
@@ -47,6 +49,10 @@ to comperhend how different states can be effecting myself and other people will
 easier. It should also give me better mental wellbeing allowing me to enjoy my work more, leading to better work.
 
 Action-
+At the end of each week during the next term I will set aside 30 minutes of time to stop and contemplate how the weeks experiences have
+made me feel, looking specifically for any outlying differences to my normal emotional state. This will give me a better 
+understanding of my own emotions and the reasons behind why they have been affected. I will add this to my weekly to-do
+list and check off each session.
 
 
 Dispositional-
@@ -58,5 +64,7 @@ members waiting on a job to be completed. This gives an overall slowdown in work
  as it can not only annoy team members but also halt progress in certain areas.
 
 Action-
-
+At the start of each day I will seperate out my jobs as normal but now allocate time to each job. This will help me
+move on to the next job and not stay working on the previous. I will keep a record of these to-do lists and mark them 
+as succesful or over-ran depending on how the day went.
 
